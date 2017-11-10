@@ -42,6 +42,11 @@ nav a:hover
   color: #868e96;
 }
 
+#red a:hover
+{
+  text-decoration:underline;
+}
+
 main{
   margin-top: 20px;
 }
