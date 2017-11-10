@@ -51,7 +51,7 @@ main{
   margin-top: 20px;
 }
 
-div questions
+.questions
 {
   padding:0 20px 0 20px;
 }
@@ -67,7 +67,7 @@ div questions
   margin-top:30px;
 }
 
-.questions p a .btn
+.btn
 {
   border-radius: 5px;
   color: #FFF;
